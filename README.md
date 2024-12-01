@@ -1,6 +1,5 @@
  # About me 👋 
- ---
-
+ 
 - 🔭 I’m currently working on **_Prototyping_**
 - 💬 Ask me about **_Agile/Scrum, Business Analysis, UML, C#, C/C++, Java_**
 - 📫 How to reach me: **_a.ghafari.b@gmail.com_** 
